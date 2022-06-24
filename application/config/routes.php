@@ -55,4 +55,4 @@ $route['translate_uri_dashes'] = FALSE;
 
 
 
-$route['api/pegawai/(:num)'] = 'api/pegawai/id/$1';
+$route['api/pegawai/(:num)'] = 'api/pegawai/nip/$1';
